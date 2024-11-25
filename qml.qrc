@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RCC version="1.0">
+    <qresource prefix="/">
+        <!-- QML files -->
+        <file>resources/qml/Main.qml</file>
+
+        <!-- Add other QML files here -->
+        <!-- <file>components/MyButton.qml</file> -->
+        <!-- <file>pages/HomePage.qml</file> -->
+
+        <!-- Images -->
+        <!-- <file>images/background.png</file> -->
+        <!-- <file>images/icon.png</file> -->
+
+        <!-- Other resources -->
+        <!-- <file>fonts/custom-font.ttf</file> -->
+        <!-- <file>data/config.json</file> -->
+    </qresource>
+</RCC>
